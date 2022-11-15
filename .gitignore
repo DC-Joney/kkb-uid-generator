@@ -1,0 +1,13 @@
+.idea/
+.mvn/
+.DS_Store
+.DS_Store?
+/target/
+target/
+log/
+logs/
+*.DS_Store
+*.iml
+*.log
+
+
